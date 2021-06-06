@@ -12,7 +12,7 @@ You can select your answer from the dropdown of options available and click on t
 
 This widget can be embedded in HTML page by using the minified JS and CSS files availble in the build folder.The object which cotains the questions and answers has to be changed in the 'data.js' file in order to change the questions. The answers for each  question is stored in the local storage against the question Id.
 
-####Assumption.
+#### Assumption.
 It is assumed that each question has an unique ID. Since, this is the identifier for all the answers stored in the local storage.
 
 ## System Requirements
