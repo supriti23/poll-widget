@@ -8,7 +8,7 @@
 - Jest and React Testing Library
 
 ## Demo of the widget embedded in a different HTML page
-![Alt text](https://github.com/supriti23/poll-widget/tree/main/public/Demo1/assets "Desktop View")
+![Alt text](https://github.com/supriti23/poll-widget/tree/main/public/Demo1/assets/demo1.gif "Desktop View")
 
 
 ## How the Application works
