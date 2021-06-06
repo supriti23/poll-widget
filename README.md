@@ -8,9 +8,8 @@
 - Jest and React Testing Library
 
 ## Demo of the widget embedded in a different HTML page
-![Alt text](https://github.com/supriti23/poll-widget/blob/public/Demo1/assets/demo1.gif "Desktop View")
+![Alt text](https://github.com/supriti23/poll-widget/public/Demo1/assets/demo1.gif "Desktop View")
 
-![Alt text](https://github.com/supriti23/select-your-car/blob/main/src/Assets/DemoMobile.gif "Mobile View")
 
 ## How the Application works
 You can select your answer from the dropdown of options available and click on the 'vote' button to cast your vote. Once, you have voted a progress bar appears where you can see the percentage of vote for each option.
