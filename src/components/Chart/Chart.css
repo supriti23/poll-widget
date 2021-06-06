@@ -1,0 +1,9 @@
+.progress{
+    margin:0.5% 0.5% 3% 0.5%;
+    font-size: medium;
+    font-style: "Lucida Sans";
+}
+
+.progress-bar{
+    min-width: 6%;
+}

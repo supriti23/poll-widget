@@ -1,0 +1,53 @@
+.pollContainer{
+    display: flex;
+    flex-direction: column;
+    margin:3% auto;
+    padding: 1%;
+    align-items: center;
+    border-radius: 20px;
+    background: rgb(250, 225, 85);
+}
+.vote{
+    color:white;
+    background:rgb(36, 78, 155) ;
+    width: 20%;
+    margin: 2%;
+    padding: 1.5%;
+    box-sizing: border-box;
+    border-radius: 8px;
+    border: none;
+    font:"Lucida Sans";
+    font-weight: bold;
+    font-size: large;
+
+}
+.vote:hover {
+    background:rgb(78, 180, 206);
+    cursor: pointer
+}
+.step{
+    display: flex; 
+    width: 100%;
+}
+.stepButton{
+    background: rgb(36, 78, 155) ;
+    color:white;
+    width: 12%;
+    margin: 1.5%;
+    padding: 1%;
+    box-sizing: border-box;
+    border-radius: 8px;
+    border: none;
+    font:"Lucida Sans";
+    font-weight: bold;
+    font-size: small;
+}
+.middle{
+    justify-content: center;
+}
+.side{
+    justify-content: space-between;
+}
+.stepButton:hover {
+    background:rgb(78, 180, 206);
+}
